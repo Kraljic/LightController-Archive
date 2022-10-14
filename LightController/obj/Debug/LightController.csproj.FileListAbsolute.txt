@@ -1,0 +1,12 @@
+c:\users\marko\documents\visual studio 2017\Projects\LightController\LightController\obj\Debug\LightController.csprojResolveAssemblyReference.cache
+c:\users\marko\documents\visual studio 2017\Projects\LightController\LightController\obj\Debug\LightController.Main.resources
+c:\users\marko\documents\visual studio 2017\Projects\LightController\LightController\obj\Debug\LightController.Properties.Resources.resources
+c:\users\marko\documents\visual studio 2017\Projects\LightController\LightController\obj\Debug\LightController.csproj.GenerateResource.Cache
+c:\users\marko\documents\visual studio 2017\Projects\LightController\LightController\bin\Debug\LightController.exe
+c:\users\marko\documents\visual studio 2017\Projects\LightController\LightController\bin\Debug\LightController.pdb
+c:\users\marko\documents\visual studio 2017\Projects\LightController\LightController\bin\Debug\CSCore.dll
+c:\users\marko\documents\visual studio 2017\Projects\LightController\LightController\bin\Debug\CSCore.xml
+c:\users\marko\documents\visual studio 2017\Projects\LightController\LightController\obj\Debug\LightController.exe
+c:\users\marko\documents\visual studio 2017\Projects\LightController\LightController\obj\Debug\LightController.pdb
+c:\users\marko\documents\visual studio 2017\Projects\LightController\LightController\obj\Debug\LightController.Settings.resources
+c:\users\marko\documents\visual studio 2017\Projects\LightController\LightController\bin\Debug\LightController.exe.config
